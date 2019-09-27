@@ -1,2 +1,4 @@
 # kuznov
 noobish
+!/bin/bash
+
